@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "version": "0.1.0-preview",
+  "files": {
+    "hlserver4110.exe": "178fdf8a3d43ab91063ccb83be05be0457c98db348fc28eba6b9c9ea4e5dc849",
+    "wise-linux.zip": "32ea844833e791ac69cabf223d11cec3b10d86178f28b5334749b43c2f162ed8",
+    "svencoop.zip": "01b7b212417c3567fa06cf61984fc1085a06f7fae6818cab1c07229bd2bf541d",
+    "plugins.zip": "5f93fb5cd119560d8d8018b99f9154879b33247068ca8be8165d2ed8d08c5638",
+    "HLDS-LICENSE.txt": "9e5e9a6d9fa37f924d66029e7fd4dfaeda69ad753c84a6444a838ec21ee1c76f",
+    "sources.zip": "d9d9b5e989c5a90c0f20974db30f59947dd6210cbd2f9112c6945942c888edd5"
+  },
+  "source": {
+    "svenInstallerSHA256": "410d56668a63e57a03a58a6668c9466dacf99eeeabfe2f76955c1e2c9c0c7f1c",
+    "hldsInstallerSHA256": "178fdf8a3d43ab91063ccb83be05be0457c98db348fc28eba6b9c9ea4e5dc849"
+  },
+  "engine": {
+    "hlds.exe": "070ee1e43ac7e66494f3feb1410b6ca2776dabefe83f8e5893359dbcb990cfa1",
+    "swds.dll": "5d53bf034490ab7a36cd644e123f94fd312d47f4fe0d310780e38bc564f5f9ac"
+  }
+}

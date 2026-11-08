@@ -1,0 +1,5 @@
+*.sh text eol=lf
+*.py text eol=lf
+*.sma text eol=lf
+*.md text eol=lf
+components/HLDS-LICENSE.txt -text -whitespace

@@ -1,0 +1,11 @@
+components/*
+!components/manifest.json
+!components/HLDS-LICENSE.txt
+docs/BUILD-STATUS.md
+.github/
+build/
+dist/
+SvenServer-Linux/
+__pycache__/
+*.pyc
+*.local.*
